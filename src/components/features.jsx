@@ -1,6 +1,3 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
-
 export const Features = (props) => {
   
   return (
@@ -15,8 +12,8 @@ export const Features = (props) => {
               
                 <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
                   {' '}
-                  <FontAwesomeIcon className={'FontA'} icon={faCoffee} />
-
+                  
+                  <i className={d.icon}></i>
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
                 </div>
@@ -27,6 +24,3 @@ export const Features = (props) => {
     </div>
   )
 }
-
-//<i className={d.icon}></i>
-//<FontAwesomeIcon className={'FontA'} icon={faCoffee} />

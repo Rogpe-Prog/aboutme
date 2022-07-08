@@ -1,4 +1,4 @@
-# That is my Project to improve my portfolio, I use vercel and for more information about used termplate look below.
+# That is my Project to improve my portfolio, I use vercel and for more information about used template look below.
 
 
 ## Credits
