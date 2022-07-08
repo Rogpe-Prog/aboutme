@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Hello I'm Paulo",
-    "paragraph": "An enthusiast and passionate about development. I love Javascript, Node.js, React and fascinated by React Native."
+    "paragraph": ""
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -161,7 +161,7 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "faCoffee",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
