@@ -1,21 +1,23 @@
 {
   "Header": {
     "title": "Hello I'm Paulo",
-    "paragraph": ""
+    "paragraph": " "
   },
   "About": {
     "paragraph": "An enthusiast and passionate about development. I love Javascript, Node.js, React and fascinated by React Native.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Design Solution",
+      "Critical Thinking",
+      "Dedicated Team Player",
+      "Complex Problem Solving",
+      "Detail Oriented"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Expertise in JavaScript",
+      "Asynchronous Programming",
+      "React JS and React Native",
+      "Node JS",
+      "Git and Github"
     ]
   },
   "Gallery": [
