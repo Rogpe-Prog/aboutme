@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Hello I'm Paulo",
+    "title": "Hello I'm Paulo_",
     "paragraph": " "
   },
   "About": {
-    "paragraph": "An enthusiast and passionate about development. I love Javascript, Node.js, React and fascinated by React Native.",
+    "paragraph": "An enthusiast and passionate about solution architecture and development. I love Javascript, Node.js, React and fascinated by React Native.",
     "Why": [
       "Design Solution",
       "Critical Thinking",
@@ -22,47 +22,47 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Sync vs. Async",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Working...",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
