@@ -147,22 +147,34 @@ export const Contact = (props) => {
               </div>
             </div>
           </div> */}
-          
+       
+
+
 
         </div>
       </div>
       <div id='footer'>
 
-      
-        <div className='container text-center'>
-        
-          <p>
-            &copy; 2021 Rogpe *
-            <a href='https://github.com/Rogpe-Prog' rel='nofollow'>
-              github
-            </a>
-          </p>
+        <div class="footer-bottom">
+            <div class="row">
+                <div class="col-sm-6">
+                <p>
+                  &copy; 2021 Rogpe *
+                  <a href='https://github.com/Rogpe-Prog' rel='nofollow'>
+                    github
+                  </a>
+                </p>
+                </div>
+                
+                <div class="col-sm-8">
+                    
+                              
+                </div>
+            </div>
         </div>
+
+
+
       </div>
     </div>
   )

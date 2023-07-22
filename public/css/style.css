@@ -459,11 +459,20 @@ header .intro-text {
   color: #888;
 }
 /* Contact Section */
-#contact {
+/* #contact {
   padding: 100px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
+} */
+.footer-bottom p {
+  text-align: right;
 }
+.footer-bottom {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 #contact .section-title {
   margin-bottom: 40px;
 }
@@ -580,25 +589,25 @@ label {
   border-radius: 50%;
   transition: all 0.3s;
 }
-#contact .social i.fa:hover {
+/* #contact .social i.fa:hover {
   color: #608dfd;
   background: #fff;
-}
+} */
 /* Footer Section*/
 #footer {
-  background: #f6f6f6;
+  background: #22192C;
   padding: 30px 0;
 }
 #footer p {
   color: #888;
   font-size: 14px;
 }
-#footer a {
+/* #footer a {
   color: #608dfd;
-}
-#footer a:hover {
+} */
+/* #footer a:hover {
   border-bottom: 2px solid #608dfd;
-}
+} */
 
 @media (max-width: 768px) {
   #about img {
