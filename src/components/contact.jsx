@@ -96,7 +96,7 @@ export const Contact = (props) => {
             </div>
           </div> */}
           
-          <div className='col-md-8 col-md-offset-1 contact-info'>
+          {/* <div className='col-md-8 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Contact Info</h3>
               <p>
@@ -121,10 +121,10 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : 'loading'}
               </p>
             </div>
-          </div>
+          </div> */}
 
 
-          <div className='col-md-12'>
+          {/* <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
                 <ul>
@@ -146,11 +146,16 @@ export const Contact = (props) => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div> */}
+          
+
         </div>
       </div>
       <div id='footer'>
+
+      
         <div className='container text-center'>
+        
           <p>
             &copy; 2021 Rogpe *
             <a href='https://github.com/Rogpe-Prog' rel='nofollow'>
