@@ -5,7 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Books and Articles</h2>
           <p>
-            Here, some pages beyond understanding, seeking to precede..
+            Here, some pages beyond understanding, seeking to precede.
           </p>
         </div>
         <div id='row'>
