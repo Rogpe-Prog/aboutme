@@ -77,7 +77,7 @@
       "smallImage": "img/portfolio/11-small.jpg"
     },
     {
-      "title": "Working...",
+      "title": "Solution Discount Coupons",
       "largeImage": "img/portfolio/12-large.jpg",
       "smallImage": "img/portfolio/12-small.jpg"
     },
@@ -145,6 +145,11 @@
     },
     {
       "img": "img/team/04.jpg",
+      "name": "Life 3.0",
+      "job": "Max Tegmark"
+    },
+    {
+      "img": "img/team/05.jpg",
       "name": "Reading...",
       "job": ""
     }
