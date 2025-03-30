@@ -82,9 +82,14 @@
       "smallImage": "img/portfolio/12-small.jpg"
     },
     {
-      "title": "Working...",
+      "title": "CI/CD Pipeline",
       "largeImage": "img/portfolio/13-large.jpg",
       "smallImage": "img/portfolio/13-small.jpg"
+    },
+    {
+      "title": "Working...",
+      "largeImage": "img/portfolio/14-large.jpg",
+      "smallImage": "img/portfolio/14-small.jpg"
     }
   ],
   "Services": [
@@ -150,6 +155,11 @@
     },
     {
       "img": "img/team/05.jpg",
+      "name": "System Design Interview",
+      "job": "Alex Xu"
+    },
+    {
+      "img": "img/team/06.jpg",
       "name": "Reading...",
       "job": ""
     }
