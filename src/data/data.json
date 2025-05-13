@@ -97,9 +97,14 @@
       "smallImage": "img/portfolio/15-small.jpg"
     },
     {
-      "title": "Working...",
+      "title": "BOLA",
       "largeImage": "img/portfolio/16-large.jpg",
       "smallImage": "img/portfolio/16-small.jpg"
+    },
+    {
+      "title": "Working...",
+      "largeImage": "img/portfolio/17-large.jpg",
+      "smallImage": "img/portfolio/17-small.jpg"
     }
   ],
   "Services": [
