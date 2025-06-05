@@ -180,6 +180,11 @@
     },
     {
       "img": "img/team/06.jpg",
+      "name": "JavaScript - Definitive Guide",
+      "job": "O' REILLY"
+    },
+    {
+      "img": "img/team/06.jpg",
       "name": "Reading...",
       "job": ""
     }
