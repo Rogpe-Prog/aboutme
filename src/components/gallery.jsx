@@ -8,7 +8,7 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Architectures</h2>
           <p>
-            Here we see some solutions using patterns and design architectures, a few just overview and others a little more deep.
+            Here some solutions using patterns and design architectures, a few just overview and others a little more deep.
           </p>
         </div>
         <div className='row'>

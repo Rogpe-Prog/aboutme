@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Background</h2>
           <p>
-          This represents my educational background and certifications.
+          This represents my background and certifications.
           </p>
         </div>
         <div id='row'>
