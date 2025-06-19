@@ -107,9 +107,14 @@
       "smallImage": "img/portfolio/17-small.jpg"
     },
     {
-      "title": "Working...",
+      "title": "IA - RAG ARCHITECTURE",
       "largeImage": "img/portfolio/18-large.jpg",
       "smallImage": "img/portfolio/18-small.jpg"
+    },
+    {
+      "title": "Working...",
+      "largeImage": "img/portfolio/19-large.jpg",
+      "smallImage": "img/portfolio/19-small.jpg"
     }
   ],
   "Services": [
