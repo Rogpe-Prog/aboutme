@@ -112,9 +112,15 @@
       "smallImage": "img/portfolio/18-small.jpg"
     },
     {
-      "title": "Working...",
+      "title": "Cloud Engineer",
       "largeImage": "img/portfolio/19-large.jpg",
       "smallImage": "img/portfolio/19-small.jpg"
+    }
+    },
+    {
+      "title": "Working...",
+      "largeImage": "img/portfolio/20-large.jpg",
+      "smallImage": "img/portfolio/20-small.jpg"
     }
   ],
   "Services": [
