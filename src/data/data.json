@@ -186,12 +186,17 @@
     {
       "img": "img/team/06.jpg",
       "name": "JavaScript - Definitive Guide",
-      "job": "O' REILLY"
+      "job": "David Flanagan"
     },
     {
       "img": "img/team/07.jpg",
+      "name": "Fundamentals of Enterprise Architecture",
+      "job": "Tanusree McCabe"
+    },
+    {
+      "img": "img/team/08.jpg",
       "name": "Reading...",
-      "job": ""
+      "job": "Tanusree McCabe"
     }
   ],
   "Contact": {
