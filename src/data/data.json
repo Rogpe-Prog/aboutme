@@ -195,6 +195,11 @@
     },
     {
       "img": "img/team/08.jpg",
+      "name": "Strategic Monoliths and Microservices",
+      "job": "V. Vernon and T. Jaskula"
+    },
+    {
+      "img": "img/team/09.jpg",
       "name": "Reading...",
       "job": "Tanusree McCabe"
     }
