@@ -115,6 +115,11 @@
       "title": "Cloud Engineer",
       "largeImage": "img/portfolio/19-large.jpg",
       "smallImage": "img/portfolio/19-small.jpg"
+    },
+    {
+      "title": "Digital Core Platform",
+      "largeImage": "img/portfolio/20-large.jpg",
+      "smallImage": "img/portfolio/20-small.jpg"
     }
   ],
   "Services": [
@@ -201,7 +206,7 @@
     {
       "img": "img/team/09.jpg",
       "name": "Reading...",
-      "job": "Tanusree McCabe"
+      "job": ""
     }
   ],
   "Contact": {

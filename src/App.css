@@ -16,3 +16,173 @@
     width: 110%;
   }
 }
+
+/* Keep gallery layout isolated to portfolio section */
+#portfolio .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#portfolio .portfolio-items {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+#portfolio .portfolio-grid-item {
+  min-width: 0;
+}
+
+#portfolio .portfolio-item {
+  margin: 0;
+}
+
+#portfolio .hover-bg {
+  aspect-ratio: auto;
+}
+
+#portfolio .hover-bg > a,
+#portfolio .hover-bg > .portfolio-trigger {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#portfolio .portfolio-trigger {
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+#portfolio .hover-bg img {
+  width: 100%;
+  height: auto;
+  object-fit: unset;
+  object-position: unset;
+  background: transparent;
+  display: block;
+}
+
+#portfolio .portfolio-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1100;
+  background: rgba(0, 0, 0, 0.86);
+}
+
+#portfolio .portfolio-modal-close {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  z-index: 1200;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 999px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(33, 33, 33, 0.92);
+  cursor: pointer;
+}
+
+#portfolio .portfolio-modal-content {
+  position: absolute;
+  inset: 0;
+  overflow: auto;
+  padding: 72px 24px 24px;
+  text-align: center;
+}
+
+#portfolio .portfolio-modal-image {
+  max-width: 100%;
+  max-height: calc(100vh - 96px);
+  width: auto;
+  height: auto;
+  display: inline-block;
+  cursor: zoom-in;
+}
+
+#portfolio .portfolio-modal-image--zoomed {
+  max-width: none;
+  max-height: none;
+  cursor: zoom-out;
+}
+
+@media screen and (max-width: 991px) {
+  #portfolio .portfolio-items {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #portfolio .portfolio-items {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Keep books/articles layout isolated to team section */
+#team .section-title {
+  max-width: 760px;
+  margin: 0 auto 40px;
+}
+
+#team .team-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+}
+
+#team .team-grid-item {
+  min-width: 0;
+}
+
+#team .thumbnail {
+  margin-bottom: 0;
+}
+
+#team .team-img {
+  width: 100%;
+  height: auto;
+  object-fit: unset;
+  object-position: unset;
+  background: transparent;
+  display: block;
+}
+
+@media screen and (max-width: 1199px) {
+  #team .team-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #team .team-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #team .team-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #team .team-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Keep footer text centered without changing footer behavior */
+#footer .footer-bottom {
+  text-align: center;
+}
+
+#footer .footer-bottom p {
+  text-align: center;
+  margin: 0;
+}
