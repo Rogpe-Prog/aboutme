@@ -120,6 +120,11 @@
       "title": "Digital Core Platform",
       "largeImage": "img/portfolio/20-large.jpg",
       "smallImage": "img/portfolio/20-small.jpg"
+    },
+    {
+      "title": "RAG vs ONTOLOGY",
+      "largeImage": "img/portfolio/21-large.jpg",
+      "smallImage": "img/portfolio/21-small.jpg"
     }
   ],
   "Services": [
